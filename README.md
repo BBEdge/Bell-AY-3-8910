@@ -6,7 +6,7 @@ GAL ATF16V
 DAC AY-3-8910
 ```
 
-#### LOGIC
+#### GLUE LOGIC
 ```
 /** Inputs **/
 Pin 1 = CLK;
